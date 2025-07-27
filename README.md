@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m currently learning to program with ASP.NET Core
+- 💬 Ask me about web development
 <!--
 **CaSaGa24/CaSaGa24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
